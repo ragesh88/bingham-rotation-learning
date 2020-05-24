@@ -18,7 +18,7 @@ Standard stuff:
 Slightly less standard stuff:
 `tqdm, tensorboardx`
 
-To run our experiments, you will need to clone / install our own `pytorch`/`numpy` library:
+Finally, you will need to clone / install our own `pytorch`/`numpy` library:
 `liegroups`, available [here](https://github.com/utiasSTARS/liegroups) (unfortunately not yet on pip)
 
 ### Run the demo!

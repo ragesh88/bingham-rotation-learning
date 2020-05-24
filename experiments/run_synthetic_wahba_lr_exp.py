@@ -1,5 +1,7 @@
 import torch
 import numpy as np
+import sys
+sys.path.insert(0,'..')
 from networks import *
 from quaternions import *
 from helpers_sim import *
